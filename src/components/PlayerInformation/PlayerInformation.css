@@ -1,0 +1,26 @@
+.player-container {
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 420px;
+  border-bottom: 1px solid gray;
+  box-shadow: 0 4px 8px 0 gray;
+  width: 600px;
+  height: 380px;
+}
+
+.player-information {
+  margin-left: 50px;
+  text-align: left;
+}
+
+.cart-button {
+  background-color: tomato;
+  border: 1px solid tomato;
+  width: 120px;
+  height: 35px;
+  border-radius: 10px;
+}
+.images {
+  width: 310px;
+  height: 350px;
+}
